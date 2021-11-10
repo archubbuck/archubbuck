@@ -1,0 +1,12 @@
+## Hello there, fellow \<coders/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+[![Linkedin Badge](https://img.shields.io/badge/-adamchubbuck-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adamchubbuck/)](https://www.linkedin.com/in/adamchubbuck/)
+[![Gmail Badge](https://img.shields.io/badge/-adam.chubbuck@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adam.chubbuck@gmail.com)](mailto:adam.chubbuck@gmail.com)
+
+<img src="https://github-readme-stats.vercel.app/api?username=archubbuck&show_icons=true&hide_border=true&count_private=true" />
+
+## Programming Languages
+<img src="https://github.com/archubbuck/archubbuck/blob/master/images/c-original.svg" width="30"/> <img src="https://github.com/archubbuck/archubbuck/blob/master/images/cpp.svg" width="30"/> <img src="https://github.com/archubbuck/archubbuck/blob/master/images/python2.png" height="30"/> <img src="https://github.com/archubbuck/archubbuck/blob/master/images/html.svg" width="30"/> <img src="https://github.com/archubbuck/archubbuck/blob/master/images/css.svg" width="30"/> <img src="https://github.com/archubbuck/archubbuck/blob/master/images/js.svg" width="30"/> <img src="https://github.com/archubbuck/archubbuck/blob/master/images/bootstrap.svg" width="33"/> <img src="https://github.com/archubbuck/archubbuck/blob/master/images/dart.svg" width="33"/> <img src="https://github.com/archubbuck/archubbuck/blob/master/images/php.svg" width="40"/> <img src="https://github.com/archubbuck/archubbuck/blob/master/images/sql.svg" width="30"/> 
+ 
+ ## Technologies I Use
+ <img src="https://github.com/archubbuck/archubbuck/blob/master/images/pycharm.svg" width="30"/> <img src="https://github.com/archubbuck/archubbuck/blob/master/images/flutter-logo.svg" width="30"/> <img src="https://github.com/archubbuck/archubbuck/blob/master/images/django.svg" height="40"/> <img src="https://github.com/archubbuck/archubbuck/blob/master/images/flask.png" width="30"/> <img src="https://github.com/archubbuck/archubbuck/blob/master/images/git.svg" width="30"/> <img src="https://github.com/archubbuck/archubbuck/blob/master/images/nodejs.svg" width="33"/> <img src="https://github.com/archubbuck/archubbuck/blob/master/images/react.svg" width="33"/>
